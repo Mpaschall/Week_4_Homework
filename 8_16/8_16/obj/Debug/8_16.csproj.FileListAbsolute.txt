@@ -1,0 +1,9 @@
+c:\users\xdark\documents\visual studio 2015\Projects\8_16\8_16\bin\Debug\8_16.exe.config
+c:\users\xdark\documents\visual studio 2015\Projects\8_16\8_16\bin\Debug\8_16.exe
+c:\users\xdark\documents\visual studio 2015\Projects\8_16\8_16\bin\Debug\8_16.pdb
+c:\users\xdark\documents\visual studio 2015\Projects\8_16\8_16\obj\Debug\8_16.csprojResolveAssemblyReference.cache
+c:\users\xdark\documents\visual studio 2015\Projects\8_16\8_16\obj\Debug\_8_16.MakeRectangle.resources
+c:\users\xdark\documents\visual studio 2015\Projects\8_16\8_16\obj\Debug\_8_16.Properties.Resources.resources
+c:\users\xdark\documents\visual studio 2015\Projects\8_16\8_16\obj\Debug\8_16.csproj.GenerateResource.Cache
+c:\users\xdark\documents\visual studio 2015\Projects\8_16\8_16\obj\Debug\8_16.exe
+c:\users\xdark\documents\visual studio 2015\Projects\8_16\8_16\obj\Debug\8_16.pdb
